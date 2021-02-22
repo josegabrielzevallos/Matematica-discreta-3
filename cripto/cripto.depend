@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1525480462 source:c:\users\jose gabriel\documents\c++\cripto\main.cpp
+	<iostream>
+	"afin.h"
+
+1534891288 c:\users\jose gabriel\documents\c++\cripto\include\afin.h
+	<iostream>
+
+1525480462 source:c:\users\jose gabriel\documents\c++\cripto\src\afin.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Afin.h"
+	"funciones.h"
+
+1525480462 c:\users\jose gabriel\documents\c++\cripto\include\funciones.h
+	<iostream>
+
