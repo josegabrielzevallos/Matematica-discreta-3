@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1527970423 source:c:\users\jose gabriel\documents\ntl\rsa\main.cpp
+	<iostream>
+	"rsa.h"
+
+1527969308 c:\users\jose gabriel\documents\ntl\rsa\include\rsa.h
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<NTL/ZZ.h>
+
+1527970423 source:c:\users\jose gabriel\documents\ntl\rsa\src\rsa.cpp
+	"rsa.h"
+
+1527970423 source:c:\users\jose gabriel\documents\c++\rsa\main.cpp
+	<iostream>
+	"rsa.h"
+
+1527342730 c:\users\jose gabriel\documents\c++\rsa\include\rsa.h
+
+1527970423 source:c:\users\jose gabriel\documents\c++\rsa\src\rsa.cpp
+	"rsa.h"
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1535549013 source:c:\users\jose gabriel\documents\c++\afin\main.cpp
+	<iostream>
+	<fstream>
+	"Afin.h"
+
+1535428183 c:\users\jose gabriel\documents\c++\afin\include\afin.h
+	<iostream>
+
+1535429640 source:c:\users\jose gabriel\documents\c++\afin\src\afin.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Afin.h"
+	"funciones.h"
+
+1535342895 c:\users\jose gabriel\documents\c++\afin\include\funciones.h
+	<iostream>
+
